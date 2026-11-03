@@ -1,0 +1,17 @@
+2026-11-01 07:03:58,549 - INFO - Starting improved CHIRPS download check...
+2026-11-01 07:03:58,563 - INFO - Latest file: C:\Users\User\Desktop\DUWE_DISASTER_INTELLIGENCE\01_data\raw\CHIRPS_Chikwawa_RainySeason_2023_2024_Clipped.tif | Age: 0 days
+2026-11-01 07:03:58,573 - INFO - CHIRPS data is recent enough for daily run.
+2026-11-01 07:03:58,597 - INFO - Download module finished with status: RECENT
+2026-11-01 08:42:38,723 - INFO - Starting improved CHIRPS download check...
+2026-11-01 08:42:38,746 - INFO - Latest file: C:\Users\User\Desktop\DUWE_DISASTER_INTELLIGENCE\01_data\raw\CHIRPS_Chikwawa_RainySeason_2023_2024_Clipped.tif | Age: 0 days
+2026-11-01 08:42:38,747 - INFO - CHIRPS data is recent enough for daily run.
+2026-11-01 08:42:38,749 - INFO - Download module finished with status: RECENT
+2026-11-01 08:43:36,867 - INFO - Starting CHIRPS data check...
+2026-11-01 08:43:36,868 - WARNING - CHIRPS data is 2 seasons behind (ends 2024-04-30).
+2026-11-01 08:43:36,869 - INFO - CHIRPS check finished with status: OUTDATED
+2026-11-01 08:49:00,755 - INFO - Starting CHIRPS data check...
+2026-11-01 08:49:00,758 - WARNING - CHIRPS data is 2 seasons behind (ends 2024-04-30).
+2026-11-01 08:49:00,759 - INFO - CHIRPS check finished with status: OUTDATED
+2026-11-01 08:52:43,275 - INFO - Starting CHIRPS data check...
+2026-11-01 08:52:43,280 - WARNING - CHIRPS data is 2 seasons behind (ends 2024-04-30).
+2026-11-01 08:52:43,283 - INFO - CHIRPS check finished with status: OUTDATED

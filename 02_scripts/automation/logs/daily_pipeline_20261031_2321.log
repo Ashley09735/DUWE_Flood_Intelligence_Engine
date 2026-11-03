@@ -1,0 +1,18 @@
+2026-10-31 23:21:03,190 - INFO - ======================================================================
+2026-10-31 23:21:03,191 - INFO - DUWE AI FLOOD INTELLIGENCE ENGINE
+2026-10-31 23:21:03,194 - INFO - DAILY PIPELINE STARTED
+2026-10-31 23:21:03,198 - INFO - Start time: 2026-10-31 23:21:03
+2026-10-31 23:21:03,199 - INFO - ======================================================================
+2026-10-31 23:21:03,200 - INFO - Step 1: Checking CHIRPS rainfall data...
+2026-10-31 23:21:03,201 - INFO - CHIRPS data found: ['CHIRPS_Chikwawa_RainySeason_2023_2024.tif', 'CHIRPS_Chikwawa_RainySeason_2023_2024_Clipped.tif']
+2026-10-31 23:21:03,202 - INFO - Starting: lesson_13_chirps_rainfall_integration.py
+2026-10-31 23:27:46,299 - INFO - SUCCESS: lesson_13_chirps_rainfall_integration.py
+2026-10-31 23:27:46,300 - INFO - Starting: lesson_14_rain_hazard_risk_update.py
+2026-10-31 23:28:54,432 - INFO - SUCCESS: lesson_14_rain_hazard_risk_update.py
+2026-10-31 23:28:54,435 - INFO - ----------------------------------------------------------------------
+2026-10-31 23:28:54,436 - INFO - Pipeline finished.
+2026-10-31 23:28:54,437 - INFO - Scripts succeeded: 2 / 2
+2026-10-31 23:28:54,439 - INFO - Duration: 0:07:51.244123
+2026-10-31 23:28:54,442 - INFO - End time: 2026-10-31 23:28:54
+2026-10-31 23:28:54,443 - INFO - DAILY PIPELINE COMPLETED
+2026-10-31 23:28:54,446 - INFO - ======================================================================

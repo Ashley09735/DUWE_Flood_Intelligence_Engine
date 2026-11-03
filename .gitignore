@@ -1,0 +1,6 @@
+01_data/ 
+*.tif 
+*.tiff 
+_pycache_/ 
+.sdat 
+.sgrd 

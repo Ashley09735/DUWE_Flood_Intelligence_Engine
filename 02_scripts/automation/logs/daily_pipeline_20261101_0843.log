@@ -1,0 +1,14 @@
+2026-11-01 08:43:36,745 - INFO - ======================================================================
+2026-11-01 08:43:36,745 - INFO - DUWE AI FLOOD INTELLIGENCE ENGINE
+2026-11-01 08:43:36,746 - INFO - DAILY PIPELINE STARTED
+2026-11-01 08:43:36,746 - INFO - Start time: 2026-11-01 08:43:36
+2026-11-01 08:43:36,746 - INFO - ======================================================================
+2026-11-01 08:43:36,747 - INFO - Step 1: Checking CHIRPS rainfall data...
+2026-11-01 08:43:36,747 - INFO - Starting: automation\01_download_chirps.py
+2026-11-01 08:43:36,881 - INFO - SUCCESS: automation\01_download_chirps.py
+2026-11-01 08:43:36,883 - INFO - Rainfall data status: OUTDATED | data ends: 2024-04-30 | seasons behind: 2
+2026-11-01 08:43:36,883 - INFO - Step 2: Checking infrastructure data (OpenStreetMap)...
+2026-11-01 08:43:36,883 - ERROR - Script not found: C:\Users\User\Desktop\DUWE_DISASTER_INTELLIGENCE\02_scripts\automation\03_download_infrastructure.py
+2026-11-01 08:43:36,883 - WARNING - Rainfall data is OUTDATED. Results will use the newest file available, which may not reflect current conditions.
+2026-11-01 08:43:36,884 - INFO - Starting: lesson_13_chirps_rainfall_integration.py
+2026-11-01 08:43:38,778 - ERROR - FAILED: lesson_13_chirps_rainfall_integration.py

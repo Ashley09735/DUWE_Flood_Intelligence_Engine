@@ -1,0 +1,36 @@
+2026-10-31 23:14:19,465 - INFO - ======================================================================
+2026-10-31 23:14:19,466 - INFO - DUWE AI FLOOD INTELLIGENCE ENGINE
+2026-10-31 23:14:19,466 - INFO - DAILY PIPELINE STARTED
+2026-10-31 23:14:19,467 - INFO - Start time: 2026-10-31 23:14:19
+2026-10-31 23:14:19,467 - INFO - ======================================================================
+2026-10-31 23:14:19,467 - INFO - Step 1: Checking CHIRPS rainfall data...
+2026-10-31 23:14:19,523 - INFO - CHIRPS data found: ['CHIRPS_Chikwawa_RainySeason_2023_2024.tif', 'CHIRPS_Chikwawa_RainySeason_2023_2024_Clipped.tif']
+2026-10-31 23:14:19,525 - INFO - Starting: lesson_13_chirps_rainfall_integration.py
+2026-10-31 23:14:43,002 - ERROR - FAILED: lesson_13_chirps_rainfall_integration.py
+2026-10-31 23:14:43,002 - ERROR - Traceback (most recent call last):
+  File "C:\Users\User\Desktop\DUWE_DISASTER_INTELLIGENCE\02_scripts\lesson_13_chirps_rainfall_integration.py", line 164, in <module>
+    print(f"\n    Area with rainfall \u2265 {p80:.0f} mm (80th percentile): {high_rain_area:.1f} km²")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2265' in position 25: character maps to <undefined>
+
+2026-10-31 23:14:43,026 - INFO - Starting: lesson_14_rain_hazard_risk_update.py
+2026-10-31 23:14:47,335 - ERROR - FAILED: lesson_14_rain_hazard_risk_update.py
+2026-10-31 23:14:47,336 - ERROR - Traceback (most recent call last):
+  File "C:\Users\User\Desktop\DUWE_DISASTER_INTELLIGENCE\02_scripts\lesson_14_rain_hazard_risk_update.py", line 64, in <module>
+    print(f"    Thresholds \u2192 Low/Med: {p30:.3f} | Med/High: {p60:.3f} | High/V.High: {p85:.3f}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 15: character maps to <undefined>
+
+2026-10-31 23:14:47,337 - INFO - ----------------------------------------------------------------------
+2026-10-31 23:14:47,338 - INFO - Pipeline finished.
+2026-10-31 23:14:47,338 - INFO - Scripts succeeded: 0 / 2
+2026-10-31 23:14:47,339 - INFO - Duration: 0:00:27.871901
+2026-10-31 23:14:47,340 - INFO - End time: 2026-10-31 23:14:47
+2026-10-31 23:14:47,342 - INFO - DAILY PIPELINE COMPLETED
+2026-10-31 23:14:47,344 - INFO - ======================================================================

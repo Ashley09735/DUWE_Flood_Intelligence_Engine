@@ -1,0 +1,6 @@
+status=UP_TO_DATE
+file=C:\Users\User\Desktop\DUWE_DISASTER_INTELLIGENCE\01_data\raw\chirps_chikwawa_total_2026-11-02.tiff
+data_end=2026-11-02
+age_days=1
+seasons_behind=0
+checked=2026-11-03T10:32:33.269752

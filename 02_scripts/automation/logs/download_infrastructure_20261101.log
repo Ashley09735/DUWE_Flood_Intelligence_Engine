@@ -1,0 +1,109 @@
+2026-11-01 09:01:40,364 - INFO - Study area bbox (S,W,N,E): (-16.7085, 34.2323, -15.7214, 35.1325)
+2026-11-01 09:01:40,365 - INFO - schools: downloading...
+2026-11-01 09:01:40,366 - INFO -   schools: tile 1/4
+2026-11-01 09:05:28,632 - INFO -   schools: tile 2/4
+2026-11-01 09:06:11,719 - INFO -   schools: tile 3/4
+2026-11-01 09:06:57,071 - INFO -   schools: tile 4/4
+2026-11-01 09:07:47,326 - INFO - schools: 169 features saved
+2026-11-01 09:07:47,327 - INFO - health: downloading...
+2026-11-01 09:07:47,327 - INFO -   health: tile 1/4
+2026-11-01 09:08:31,915 - INFO -   health: tile 2/4
+2026-11-01 09:09:18,328 - INFO -   health: tile 3/4
+2026-11-01 09:10:02,709 - INFO -   health: tile 4/4
+2026-11-01 09:10:46,553 - INFO - health: 73 features saved
+2026-11-01 09:10:46,554 - INFO - villages: downloading...
+2026-11-01 09:10:46,555 - INFO -   villages: tile 1/4
+2026-11-01 09:11:35,357 - INFO -   villages: tile 2/4
+2026-11-01 09:12:09,225 - INFO -   villages: tile 3/4
+2026-11-01 09:12:44,415 - INFO -   villages: tile 4/4
+2026-11-01 09:13:25,547 - INFO - villages: 547 features saved
+2026-11-01 09:13:25,548 - INFO - water_points: downloading...
+2026-11-01 09:13:25,548 - INFO -   water_points: tile 1/4
+2026-11-01 09:13:57,135 - INFO -   water_points: tile 2/4
+2026-11-01 09:14:39,531 - INFO -   water_points: tile 3/4
+2026-11-01 09:15:10,257 - INFO -   water_points: tile 4/4
+2026-11-01 09:19:40,897 - INFO - water_points: 27 features saved
+2026-11-01 09:19:40,897 - INFO - markets: downloading...
+2026-11-01 09:19:40,897 - INFO -   markets: tile 1/4
+2026-11-01 09:20:11,294 - INFO -   markets: tile 2/4
+2026-11-01 09:20:52,209 - INFO -   markets: tile 3/4
+2026-11-01 09:22:36,451 - INFO - Study area bbox (S,W,N,E): (-16.7085, 34.2323, -15.7214, 35.1325)
+2026-11-01 09:22:36,452 - INFO - schools: cached file is under 30 days old - skipped
+2026-11-01 09:22:36,453 - INFO - health: cached file is under 30 days old - skipped
+2026-11-01 09:22:36,453 - INFO - villages: cached file is under 30 days old - skipped
+2026-11-01 09:22:36,454 - INFO - water_points: cached file is under 30 days old - skipped
+2026-11-01 09:22:36,454 - INFO - markets: downloading...
+2026-11-01 09:22:36,455 - INFO -   markets: tile 1/4
+2026-11-01 09:24:15,068 - INFO -   markets: tile 2/4
+2026-11-01 09:24:52,465 - INFO -   markets: tile 3/4
+2026-11-01 09:25:37,712 - INFO -   markets: tile 4/4
+2026-11-01 09:26:15,117 - INFO - markets: 18 features saved
+2026-11-01 09:26:15,118 - INFO - worship: downloading...
+2026-11-01 09:26:15,118 - INFO -   worship: tile 1/4
+2026-11-01 09:29:37,448 - INFO -   worship: tile 2/4
+2026-11-01 09:30:20,861 - INFO -   worship: tile 3/4
+2026-11-01 09:31:02,178 - INFO -   worship: tile 4/4
+2026-11-01 09:32:11,855 - INFO - worship: 143 features saved
+2026-11-01 09:32:11,856 - INFO - power: downloading...
+2026-11-01 09:32:11,857 - INFO -   power: tile 1/4
+2026-11-01 09:32:45,830 - INFO -   power: tile 2/4
+2026-11-01 09:33:53,822 - INFO -   power: tile 3/4
+2026-11-01 09:34:31,617 - INFO -   power: tile 4/4
+2026-11-01 09:35:14,341 - INFO - power: 12 features saved
+2026-11-01 09:35:14,342 - INFO - bridges: downloading...
+2026-11-01 09:35:14,343 - INFO -   bridges: tile 1/9
+2026-11-01 09:35:45,996 - INFO -   bridges: tile 2/9
+2026-11-01 09:36:24,818 - INFO -   bridges: tile 3/9
+2026-11-01 09:37:09,214 - INFO -   bridges: tile 4/9
+2026-11-01 09:37:33,895 - INFO -   bridges: tile 5/9
+2026-11-01 09:38:07,532 - INFO -   bridges: tile 6/9
+2026-11-01 09:38:30,137 - INFO -   bridges: tile 7/9
+2026-11-01 09:39:04,905 - INFO -   bridges: tile 8/9
+2026-11-01 09:39:29,608 - INFO -   bridges: tile 9/9
+2026-11-01 09:40:07,847 - INFO - bridges: 314 features saved
+2026-11-01 09:40:07,847 - INFO - roads: downloading...
+2026-11-01 09:40:07,848 - INFO -   roads: tile 1/16
+2026-11-01 09:40:43,605 - INFO -   roads: tile 2/16
+2026-11-01 09:41:36,408 - INFO -   roads: tile 3/16
+2026-11-01 09:42:13,409 - INFO -   roads: tile 4/16
+2026-11-01 09:42:46,306 - INFO -   roads: tile 5/16
+2026-11-01 09:43:22,241 - INFO -   roads: tile 6/16
+2026-11-01 09:43:58,143 - INFO -   roads: tile 7/16
+2026-11-01 09:44:36,960 - INFO -   roads: tile 8/16
+2026-11-01 09:45:14,653 - INFO -   roads: tile 9/16
+2026-11-01 09:46:00,727 - INFO -   roads: tile 10/16
+2026-11-01 09:46:34,788 - INFO -   roads: tile 11/16
+2026-11-01 09:47:07,425 - INFO -   roads: tile 12/16
+2026-11-01 09:49:29,708 - INFO -   roads: tile 13/16
+2026-11-01 09:50:01,373 - INFO -   roads: tile 14/16
+2026-11-01 09:50:41,472 - INFO -   roads: tile 15/16
+2026-11-01 09:55:05,940 - INFO -   roads: tile 16/16
+2026-11-01 09:55:58,770 - INFO - roads: 24,670 features saved
+2026-11-01 09:55:58,770 - INFO - buildings: downloading...
+2026-11-01 09:55:58,773 - INFO -   buildings: tile 1/36
+2026-11-01 09:56:38,542 - INFO -   buildings: tile 2/36
+2026-11-01 09:57:08,768 - INFO -   buildings: tile 3/36
+2026-11-01 09:57:46,182 - INFO -   buildings: tile 4/36
+2026-11-01 09:58:38,622 - INFO -   buildings: tile 5/36
+2026-11-01 09:59:21,050 - INFO -   buildings: tile 6/36
+2026-11-01 10:00:01,510 - INFO -   buildings: tile 7/36
+2026-11-01 10:00:44,773 - INFO -   buildings: tile 8/36
+2026-11-01 10:01:15,072 - INFO -   buildings: tile 9/36
+2026-11-01 10:02:05,403 - INFO -   buildings: tile 10/36
+2026-11-01 10:05:47,971 - INFO -   buildings: tile 11/36
+2026-11-01 10:06:25,700 - INFO -   buildings: tile 12/36
+2026-11-01 10:15:03,715 - INFO - Study area bbox (S,W,N,E): (-16.7085, 34.2323, -15.7214, 35.1325)
+2026-11-01 10:15:03,726 - INFO - schools: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,740 - INFO - health: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,768 - INFO - villages: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,771 - INFO - water_points: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,789 - INFO - markets: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,790 - INFO - worship: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,791 - INFO - power: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,792 - INFO - bridges: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,808 - INFO - roads: cached file is under 30 days old - skipped
+2026-11-01 10:15:03,809 - INFO - buildings: downloading...
+2026-11-01 10:15:03,809 - INFO -   buildings: tile 1/36
+2026-11-01 10:19:35,526 - ERROR - buildings: download failed (ConnectionError: HTTPSConnectionPool(host='overpass.kumi.systems', port=443): Max retries exceeded with url: /api/interpreter (Caused by NameResolutionError("HTTPSConnection(host='overpass.kumi.systems', port=443): Failed to resolve 'overpass.kumi.systems' ([Errno 11001] getaddrinfo failed)"))) and no earlier file exists
+2026-11-01 10:39:36,899 - INFO - Study area bbox (S,W,N,E): (-16.7085, 34.2323, -15.7214, 35.1325)
+2026-11-01 10:39:36,900 - INFO - villages: cached file is under 30 days old - skipped

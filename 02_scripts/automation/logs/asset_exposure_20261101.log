@@ -1,0 +1,11 @@
+2026-11-01 10:19:38,776 - INFO - schools: 169 features analysed
+2026-11-01 10:19:38,818 - INFO - health: 73 features analysed
+2026-11-01 10:19:38,865 - INFO - villages: 547 features analysed
+2026-11-01 10:19:38,902 - INFO - water_points: 27 features analysed
+2026-11-01 10:19:38,964 - INFO - markets: 18 features analysed
+2026-11-01 10:19:39,039 - INFO - worship: 143 features analysed
+2026-11-01 10:19:39,113 - INFO - power: 12 features analysed
+2026-11-01 10:19:39,114 - WARNING - buildings: file not found - skipped
+2026-11-01 10:19:40,783 - INFO - roads: 24,670 lines, 11,622 km analysed
+2026-11-01 10:19:40,938 - INFO - bridges: 314 lines, 7 km analysed
+2026-11-01 10:19:40,974 - INFO - Asset exposure finished.
